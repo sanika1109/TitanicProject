@@ -1,5 +1,6 @@
 # TitanicProject
 <br>
-This is titanic project
+Data Cleaning & Preprocessing
 <br>
 Author- Sanika Patil.
+
